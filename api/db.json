@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "I am the stream",
+      "description": "I am the scream",
+      "userId": "101087826064300808758",
+      "id": 3
+    },
+    {
+      "title": "Edit Me",
+      "description": "I am Editer",
+      "userId": "101087826064300808758",
+      "id": 5
+    }
+  ]
+}
