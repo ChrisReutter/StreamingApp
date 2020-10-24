@@ -11,6 +11,12 @@
       "description": "I am Editer",
       "userId": "101087826064300808758",
       "id": 5
+    },
+    {
+      "title": "Hello Stream",
+      "description": "A stream for positive mood swings",
+      "userId": "101087826064300808758",
+      "id": 6
     }
   ]
 }
